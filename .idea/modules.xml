@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Scan7003_demo.iml" filepath="$PROJECT_DIR$/Scan7003_demo.iml" group="Scan7003_demo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Scan7003_demo/app" />
+    </modules>
+  </component>
+</project>
